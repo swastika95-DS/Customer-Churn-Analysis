@@ -1,0 +1,2 @@
+# Customer-Churn-Analysis
+Problem Statement: The problem statement defines that an E-commerce DTH service provider is loosing its customer due to a lot of competition in the market, thereby accounting in loss of Profitability and a fall in business. In order to control the Situation and enable a growth for future development of the Company, a Machine Learning model is developed which helps in predicting the Churn.  
